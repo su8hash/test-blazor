@@ -27,3 +27,4 @@
 /Users/subhash/test-website/obj/Debug/net8.0/test-website.pdb
 /Users/subhash/test-website/obj/Debug/net8.0/test-website.genruntimeconfig.cache
 /Users/subhash/test-website/obj/Debug/net8.0/ref/test-website.dll
+/Users/subhash/test-website/obj/Debug/net8.0/test-website.sourcelink.json
