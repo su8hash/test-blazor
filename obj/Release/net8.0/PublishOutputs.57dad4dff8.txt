@@ -1,0 +1,7 @@
+/Users/subhash/test-website/bin/Release/net8.0/publish/test-website
+/Users/subhash/test-website/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/subhash/test-website/bin/Release/net8.0/publish/appsettings.json
+/Users/subhash/test-website/bin/Release/net8.0/publish/test-website.dll
+/Users/subhash/test-website/bin/Release/net8.0/publish/test-website.deps.json
+/Users/subhash/test-website/bin/Release/net8.0/publish/test-website.runtimeconfig.json
+/Users/subhash/test-website/bin/Release/net8.0/publish/test-website.pdb
